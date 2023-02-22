@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="others">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/misoft/others/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/misoft/others/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
